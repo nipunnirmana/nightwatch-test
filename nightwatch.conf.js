@@ -1,5 +1,6 @@
 module.exports = {
   src_folders: ["tests"],
+  page_objects_path: ["google_advance_search"],
 
   webdriver: {
     start_process: true,
